@@ -9,7 +9,7 @@ Spypoint is a leading provider of trail cameras and outdoor monitoring solutions
 
 
 
-.. image:: https://mcafee-antivirus.readthedocs.io/en/latest/_images/click-here.gif
+.. image:: login-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
